@@ -1,0 +1,35 @@
+# Ignore from local build
+settings.ini
+Gemfile.lock
+_posts/2022-09-25-notebookwithhtmltable.md
+_posts/2022-09-25-notebookwithjavascript.md
+_posts/2022-09-25-notebookwithjavascriptusage.mm
+_posts/2022-09-25-notebookwithjavascriptusage.md
+_posts/2022-09-25-notebookwithjavascript.md
+_posts/2022-09-11-preformancestaskbrainstorm.md
+_posts/2022-09-02-lists_dictionaries_iterations.md
+_posts/2022-08-29-TP120-pythonlists.md
+_posts/2022-08-24-pythonquiz.md
+_posts/2022-10-03-AP-error_testing.md
+_posts/2022-10-18-testing.md
+_posts/2022-10-20-api.md
+_posts/2022-10-20-desribingjavascriptapi.md
+_posts/2022-08-21-firstjupyternotebook.md
+_posts/2022-08-21-firstjupyternotebook.md
+_posts/2022-08-24-pythonquiz.md
+_posts/2022-08-25-tool_check.md
+*.swp
+~*
+*~
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+*.xml
+vendor
+_notebooks/.ipynb_checkpoints
+# Local Netlify folder
+.netlify
+.tweet-cache
+__pycache__
+
